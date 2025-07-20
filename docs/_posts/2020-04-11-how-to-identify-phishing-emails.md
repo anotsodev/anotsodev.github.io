@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2020-04-11
 description: "This blog post will help you identify phishing emails and learn what are the tools being used in checking if the sender and links are legitimate. The scenario in the next section will tell you the …"
-tags:
-  - "cybersecurity"
-  - "information-security"
 ---
 This blog post will help you identify phishing emails and learn what are the tools being used in checking if the sender and links are legitimate.
 

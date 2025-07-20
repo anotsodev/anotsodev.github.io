@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2020-03-27
 description: "Introduction As your organization grows, a lot more log collectors either commercial or freeware are needed to be installed on your network to get logs from different servers running on Windows or …"
-tags:
-  - "cybersecurity"
-	- "information-security"
 ---
 ## Introduction
 

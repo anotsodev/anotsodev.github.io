@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2017-09-28
 description: "The slack bot that I will be building has a feature that will automatically fetch the latest tweets from my subscribed lists (Information Security related) on Twitter. Thanks to this guide I was ab…"
-tags:
-    - "cybersecurity"
-    - "information-security"
 ---
 The slack bot that I will be building has a feature that will automatically fetch the latest tweets from my subscribed lists (Information Security related) on Twitter.
 

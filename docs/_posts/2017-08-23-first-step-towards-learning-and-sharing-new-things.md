@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2017-08-23
 description: "Information Security and Ethical Hacking have broad topics to cover and an individual needs to take his or her time in terms of years to learn and master a few things in the chosen field. However, …"
-tags:
-  - "cybersecurity"
-  - "information-security"
 ---
 Information Security and Ethical Hacking have broad topics to cover and an individual needs to take his or her time in terms of years to learn and master a few things in the chosen field. However, learning new things and spending days and years researching to these fields is worthy of an individual’s time, we can also thank the security researchers and professionals that continuously spending their time researching and sharing their findings on the Internet that helped us to catch up with the latest threats that will affect the security of our assets and other important things that are saved in our electronic devices and to our physical resources.
 

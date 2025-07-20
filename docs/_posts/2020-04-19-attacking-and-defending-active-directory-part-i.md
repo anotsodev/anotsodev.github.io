@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2020-04-19
 description: "Introduction Microsoft Active Directory is one of the most interesting services to attack since we can gather a lot of information just by checking if the server is misconfigured which enables…"
-tags:
-  - "cybersecurity"
-  - "information-security"
 ---
 ## Introduction
 
@@ -68,7 +65,7 @@ Active Directory Domain Controllers handles authentication requests and verifies
 
 An organizational unit (OU) is a subdivision within an Active Directory into which you can place users, groups, computers, and other organizational units. You can create organizational units to mirror your organization’s functional or business structure. Each domain can implement its own organizational unit hierarchy. If your organization contains several domains, you can create organizational unit structures in each domain that are independent of the structures in the other domains.
 
----
+-
 
 So that ends the first part of the “Attacking and Defending Active Directory” series.
 

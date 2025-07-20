@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2017-10-28
 description: "This is a write-up of the retired Optimum box on Hack the Box. First thing I did was to fire up nmap and ran this command. nmap -sV -sC -oA optimum 10.10.10.8 And got this result. Nmap scan report …"
-tags:
-  - "cybersecurity"
-  - "information-security"
 ---
 This is a write-up of the retired Optimum box on Hack the Box.
 

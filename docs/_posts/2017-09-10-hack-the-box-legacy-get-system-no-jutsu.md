@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2017-09-10
 description: "This post contains the actual commands that I used in hacking and getting the user and root hashes on HTB Legacy Box. Enumeration kaipowered@debian:~/Downloads/enum4linux-0.8.9/enum4linux-0.8.9$ su…"
-tags:
-  - "cybersecurity"
-  - "information-security"
 ---
 This post contains the actual commands that I used in hacking and getting the user and root hashes on HTB Legacy Box.
 

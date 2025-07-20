@@ -6,9 +6,6 @@ author:
   - "anotsodev"
 date: 2017-08-24
 description: "Penetration Testing or Pentesting is a process where the testers will assess and discover the vulnerabilities that are present in a network or system and will exploit these vulnerabilities to gain …"
-tags:
-  - "cybersecurity"
-	- "information-security"
 ---
 Penetration Testing or Pentesting is a process where the testers will assess and discover the vulnerabilities that are present in a network or system and will exploit these vulnerabilities to gain access. Pentesting is also the process of simulating real world scenario where the testers will act and think like an attacker to assess and discover weaknesses and exploit those weaknesses of the target system.
 
