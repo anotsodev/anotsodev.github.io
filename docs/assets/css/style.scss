@@ -19,8 +19,8 @@
     a {
       display: block;
       text-decoration: none;
-      border: 1px solid $border-color-01;
-      &:hover { border-color: $border-color-02 }
+      border: 1px solid $brand-color;
+      &:hover { border-color: $grey-color }
     }
     a, div {
       min-width: 41px;
@@ -31,7 +31,7 @@
     div {
       border: 1px solid transparent;
       &.pager-edge {
-        color: $border-color-01;
+        color: $brand-color;
         border: 1px dashed;
       }
       &.current-page {
