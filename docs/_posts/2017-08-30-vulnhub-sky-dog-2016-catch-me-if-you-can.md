@@ -5,7 +5,7 @@ source: "https://anotsodev.me/vulnhub-skydog-2016-catch-me-if-you-can/"
 author:
   - "anotsodev"
 date: 2017-08-30
-description: "The SkyDogConCTF is one of the most enjoyable CTF challenges that I have ever played because it contained a lot of twists and challenges that don’t need advanced exploitation techniques …"
+excerpt: "The SkyDogConCTF is one of the most enjoyable CTF challenges that I have ever played because it contained a lot of twists and challenges that don’t need advanced exploitation techniques …"
 ---
 The SkyDogConCTF is one of the most enjoyable CTF challenges that I have ever played because it contained a lot of twists and challenges that don’t need advanced exploitation techniques and the tools to solve these challenges were available in Kali Linux.
 
