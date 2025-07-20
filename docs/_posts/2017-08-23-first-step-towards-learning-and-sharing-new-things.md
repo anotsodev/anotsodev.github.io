@@ -5,7 +5,7 @@ source: "https://anotsodev.me/first-step-towards-learning-and-sharing-new-things
 author:
   - "anotsodev"
 date: 2017-08-23
-description: "Information Security and Ethical Hacking have broad topics to cover and an individual needs to take his or her time in terms of years to learn and master a few things in the chosen field. However, …"
+excerpt: "Information Security and Ethical Hacking have broad topics to cover and an individual needs to take his or her time in terms of years to learn and master a few things in the chosen field. However, …"
 tags:
   - "cybersecurity"
   - "information-security"

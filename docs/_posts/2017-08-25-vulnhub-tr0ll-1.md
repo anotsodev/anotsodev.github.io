@@ -5,7 +5,7 @@ source: "https://anotsodev.me/vulnhub-tr0ll-1/"
 author:
   - "anotsodev"
 date: 2017-08-25
-description: "Started with the Nmap Scan # Nmap 7.40 scan initiated Thu Aug 3 20:58:47 2017 as: nmap -sC -sV -oA nmap 192.168.8.102 Nmap scan report for 192.168.8.102 Host is up (0.0035s latency). Not shown: 997…"
+excerpt: "Started with the Nmap Scan # Nmap 7.40 scan initiated Thu Aug 3 20:58:47 2017 as: nmap -sC -sV -oA nmap 192.168.8.102 Nmap scan report for 192.168.8.102 Host is up (0.0035s latency). Not shown: 997…"
 tags:
   - "cybersecurity"
   - "information-security"

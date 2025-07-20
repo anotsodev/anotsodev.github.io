@@ -5,7 +5,7 @@ source: "https://anotsodev.me/phases-of-penetration-testing/"
 author:
   - "anotsodev"
 date: 2017-08-24
-description: "Penetration Testing or Pentesting is a process where the testers will assess and discover the vulnerabilities that are present in a network or system and will exploit these vulnerabilities to gain …"
+excerpt: "Penetration Testing or Pentesting is a process where the testers will assess and discover the vulnerabilities that are present in a network or system and will exploit these vulnerabilities to gain …"
 tags:
   - "cybersecurity"
 	- "information-security"
