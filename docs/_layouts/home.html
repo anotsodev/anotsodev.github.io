@@ -31,7 +31,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.minima.show_excerpts -%}
+        {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
@@ -63,5 +63,6 @@ layout: default
         </ul>
       </div>
     {%- endif %}
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 </div>
