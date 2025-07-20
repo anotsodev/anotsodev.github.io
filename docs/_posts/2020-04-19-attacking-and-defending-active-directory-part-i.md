@@ -83,11 +83,3 @@ Stay tuned and be safe!
 - [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
 
 ---
-
-**Subscribe for more!**
-
-To stay up to date with my latest posts and more InfoSec guides, make sure to subscribe to this blog by entering your email address below.
-
-I promise I won’t be spamming your mailbox. Because no one loves spam. AMIRIGHT?
-
-![](https://i0.wp.com/anotsodev.me/wp-content/uploads/2020/04/more-spam.gif?resize=768%2C576&ssl=1)

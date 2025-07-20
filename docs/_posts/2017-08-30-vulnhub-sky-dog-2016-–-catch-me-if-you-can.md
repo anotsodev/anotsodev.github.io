@@ -396,11 +396,3 @@ After I got the last flag and the decoded md5 hash, I googled the “Two little 
 The quote of Frank made me goosebumps and I was really satisfied after I finished this CTF challenge. It was quite challenging and I really had fun!
 
 ---
-
-**Subscribe for more!**
-
-To stay up to date with my latest posts and more InfoSec guides, make sure to subscribe to this blog by entering your email address below.
-
-I promise I won’t be spamming your mailbox. Because no one loves spam. AMIRIGHT?
-
-![](https://i0.wp.com/anotsodev.me/wp-content/uploads/2020/04/more-spam.gif?resize=768%2C576&ssl=1)

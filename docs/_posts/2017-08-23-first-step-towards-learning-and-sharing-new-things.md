@@ -20,11 +20,3 @@ Time has passed and now I am here, I was able to hack some boxes in Hack the Box
 So that’s it for now, I hope I can continuously learn and share new more things to this blog and of course I will keep myself motivated to research and read books about Infosec and Ethical Hacking to get the fundamentals and skills that I need.
 
 ---
-
-**Subscribe for more!**
-
-To stay up to date with my latest posts and more InfoSec guides, make sure to subscribe to this blog by entering your email address below.
-
-I promise I won’t be spamming your mailbox. Because no one loves spam. AMIRIGHT?
-
-![](https://i0.wp.com/anotsodev.me/wp-content/uploads/2020/04/more-spam.gif?resize=768%2C576&ssl=1)

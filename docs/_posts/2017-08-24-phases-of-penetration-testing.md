@@ -97,11 +97,3 @@ So there are five phases of penetration testing and these are Reconnaissance, Sc
 If you have any questions or suggestions, feel free to contact me. 🙂
 
 ---
-
-**Subscribe for more!**
-
-To stay up to date with my latest posts and more InfoSec guides, make sure to subscribe to this blog by entering your email address below.
-
-I promise I won’t be spamming your mailbox. Because no one loves spam. AMIRIGHT?
-
-![](https://i0.wp.com/anotsodev.me/wp-content/uploads/2020/04/more-spam.gif?resize=768%2C576&ssl=1)

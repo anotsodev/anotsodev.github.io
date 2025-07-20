@@ -124,11 +124,3 @@ May the force be with you.
 [Featured Image created by katemangostar – www.freepik.com](https://www.freepik.com/free-photos-vectors/abstract)
 
 ---
-
-**Subscribe for more!**
-
-To stay up to date with my latest posts and more InfoSec guides, make sure to subscribe to this blog by entering your email address below.
-
-I promise I won’t be spamming your mailbox. Because no one loves spam. AMIRIGHT?
-
-![](https://i0.wp.com/anotsodev.me/wp-content/uploads/2020/04/more-spam.gif?resize=768%2C576&ssl=1)

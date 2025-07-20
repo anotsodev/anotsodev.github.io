@@ -154,11 +154,3 @@ And after successfully exploited the tr0ll vm, I was able to get and read the Pr
 Solving this challenge was quite frustrating at first because, you know, the tr0ll is trolling you, but most of the time, when I found something interesting and it just appeared that I have been tr0lled, I just found myself grinning while clenching my fists, but of course I enjoyed solving this challenge.
 
 ---
-
-**Subscribe for more!**
-
-To stay up to date with my latest posts and more InfoSec guides, make sure to subscribe to this blog by entering your email address below.
-
-I promise I won’t be spamming your mailbox. Because no one loves spam. AMIRIGHT?
-
-![](https://i0.wp.com/anotsodev.me/wp-content/uploads/2020/04/more-spam.gif?resize=768%2C576&ssl=1)

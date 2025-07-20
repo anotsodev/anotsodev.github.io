@@ -120,11 +120,3 @@ So that’s it! I hope you learned something new today and I hope you’ll be us
 - [https://docs.microsoft.com/en-us/windows/win32/wec/setting-up-a-source-initiated-subscription](https://docs.microsoft.com/en-us/windows/win32/wec/setting-up-a-source-initiated-subscription)
 
 ---
-
-**Subscribe for more!**
-
-To stay up to date with my latest posts and more InfoSec guides, make sure to subscribe to this blog by entering your email address below.
-
-I promise I won’t be spamming your mailbox. Because no one loves spam. AMIRIGHT?
-
-![](https://i0.wp.com/anotsodev.me/wp-content/uploads/2020/04/more-spam.gif?resize=768%2C576&ssl=1)
