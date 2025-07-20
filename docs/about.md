@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! I'm Kyle, SANS GCFA and GREM certified, and I appreciate you taking the time to visit my site.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In this blog, I share my experiences and insights on tackling vulnerable machines from Hack the Box and Vulnhub. You'll find detailed write-ups and solutions, as well as guides on configuring various technologies commonly used in organizations.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+By day, I work as an Incident Responsder, and by night, I enjoy the challenge of pwning vulnerable machines from HTB and Vulnhub.
 
-
-[jekyll-organization]: https://github.com/jekyll
+In my free time, I also do casual gaming and explore random stuff. Now, feel free to explore my site and hopefully you would find it insightful!
