@@ -27,6 +27,7 @@ url: "https://anotsodev.me" # the base hostname & protocol for your site, e.g. h
 twitter_username: anotsodev
 github_username:  anotsodev
 paginate: 5
+show_excerpts: true
 # Build settings
 theme: minima
 plugins:
