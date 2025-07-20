@@ -3,11 +3,12 @@ layout: post
 title: "Poor man’s log collection on Windows"
 source: "https://anotsodev.me/wec-and-wef-poor-mans-log-collection-on-windows/"
 author:
-  - "[[anotsodev]]"
+  - "anotsodev"
 date: 2020-03-27
 description: "Introduction As your organization grows, a lot more log collectors either commercial or freeware are needed to be installed on your network to get logs from different servers running on Windows or …"
 tags:
-  - "clippings"
+  - "cybersecurity"
+	- "information-security"
 ---
 ## Introduction
 
