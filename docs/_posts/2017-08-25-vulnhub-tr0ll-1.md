@@ -153,5 +153,3 @@ And after successfully exploited the tr0ll vm, I was able to get and read the Pr
 — FIN —
 
 Solving this challenge was quite frustrating at first because, you know, the tr0ll is trolling you, but most of the time, when I found something interesting and it just appeared that I have been tr0lled, I just found myself grinning while clenching my fists, but of course I enjoyed solving this challenge.
-
----

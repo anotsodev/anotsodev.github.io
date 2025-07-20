@@ -83,4 +83,3 @@ Stay tuned and be safe!
 - [https://kb.iu.edu/d/atvu](https://kb.iu.edu/d/atvu)
 - [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
 
----

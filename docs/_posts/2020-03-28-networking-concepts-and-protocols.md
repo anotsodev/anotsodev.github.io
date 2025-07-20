@@ -337,5 +337,3 @@ This blog post contains the Networking Concepts and Protocols course that can be
 **Course Reference:**
 
 [Pluralsight – Networking Concepts and Protocols](https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/)
-
----

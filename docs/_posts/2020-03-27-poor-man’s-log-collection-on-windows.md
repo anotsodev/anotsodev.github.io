@@ -119,5 +119,3 @@ So that’s it! I hope you learned something new today and I hope you’ll be us
 
 - [https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
 - [https://docs.microsoft.com/en-us/windows/win32/wec/setting-up-a-source-initiated-subscription](https://docs.microsoft.com/en-us/windows/win32/wec/setting-up-a-source-initiated-subscription)
-
----

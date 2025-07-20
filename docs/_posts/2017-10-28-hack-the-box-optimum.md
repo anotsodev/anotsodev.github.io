@@ -344,5 +344,3 @@ C:\Users\Administrator\Desktop>
 ```
 
 I have now the user and root hashes of the box.
-
----

@@ -395,5 +395,3 @@ After I got the last flag and the decoded md5 hash, I googled the “Two little 
 *[Frank Abagnale Sr.](https://www.imdb.com/name/nm0000686/?ref_=tt_trv_qu): Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse, wouldn’t quit. He struggled so hard that eventually he churned that cream into butter and crawled out. Gentlemen, as of this moment, I am that second mouse.*
 
 The quote of Frank made me goosebumps and I was really satisfied after I finished this CTF challenge. It was quite challenging and I really had fun!
-
----

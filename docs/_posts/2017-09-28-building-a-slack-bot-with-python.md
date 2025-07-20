@@ -286,5 +286,3 @@ https://github.com/anotsodev/slack-bot
 Thank you for your time! 🙂
 
 *Featured Image credits to* *[wired.com](https://www.wired.com/wp-content/uploads/2015/08/SlackBot-featured1.jpg)*
-
----

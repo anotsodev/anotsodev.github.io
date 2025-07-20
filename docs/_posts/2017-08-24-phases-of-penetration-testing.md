@@ -96,5 +96,3 @@ The goal of this phase is self-explanatory.
 So there are five phases of penetration testing and these are Reconnaissance, Scanning, Gaining Access, Maintaining Access, and Covering Tracks. There are still a lot of information that wasn’t included here and I hope it gave you an idea and understand the phases and techniques on how the penetration testers attack a system.
 
 If you have any questions or suggestions, feel free to contact me. 🙂
-
----

@@ -19,5 +19,3 @@ Okay, so my name is Kyle, an Information Technology graduate. I have experience 
 Time has passed and now I am here, I was able to hack some boxes in Hack the Box website and I really learned a lot of new things and techniques. I was also able to hack some vulnerable VMs provided by this site called [Vulnhub](https://www.vulnhub.com/). Now, I am dedicated to learning new more things and will share all my learnings for the others to use and importantly I will also use it as my cheat-sheet if I don’t remember a certain topic.
 
 So that’s it for now, I hope I can continuously learn and share new more things to this blog and of course I will keep myself motivated to research and read books about Infosec and Ethical Hacking to get the fundamentals and skills that I need.
-
----

@@ -123,5 +123,3 @@ So that’s it! I hope you have learned new technologies and tools by reading th
 May the force be with you.
 
 [Featured Image created by katemangostar – www.freepik.com](https://www.freepik.com/free-photos-vectors/abstract)
-
----

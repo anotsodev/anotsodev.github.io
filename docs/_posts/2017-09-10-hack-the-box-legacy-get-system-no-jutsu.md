@@ -517,5 +517,3 @@ meterpreter > download root.txt
 [*] download : root.txt -> root.txt
 meterpreter >
 ```
-
----
