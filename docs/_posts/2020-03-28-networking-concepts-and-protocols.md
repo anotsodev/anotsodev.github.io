@@ -5,7 +5,7 @@ source: "https://anotsodev.me/networking-concepts-and-protocols/"
 author:
   - "anotsodev"
 date: 2020-03-28
-excerpt: "This blog post contains the Networking Concepts and Protocols course that can be enrolled in Pluralsight. Feel free to skim this outline to get a high-level overview of the topics that were discuss…"
+description: "This blog post contains the Networking Concepts and Protocols course that can be enrolled in Pluralsight. Feel free to skim this outline to get a high-level overview of the topics that were discuss…"
 tags:
   - "cybersecurity"
 	- "information-security"

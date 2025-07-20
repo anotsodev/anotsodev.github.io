@@ -5,7 +5,7 @@ source: "https://anotsodev.me/htb-legacy-get-system-jutsu/"
 author:
   - "anotsodev"
 date: 2017-09-10
-excerpt: "This post contains the actual commands that I used in hacking and getting the user and root hashes on HTB Legacy Box. Enumeration kaipowered@debian:~/Downloads/enum4linux-0.8.9/enum4linux-0.8.9$ su…"
+description: "This post contains the actual commands that I used in hacking and getting the user and root hashes on HTB Legacy Box. Enumeration kaipowered@debian:~/Downloads/enum4linux-0.8.9/enum4linux-0.8.9$ su…"
 tags:
   - "cybersecurity"
   - "information-security"

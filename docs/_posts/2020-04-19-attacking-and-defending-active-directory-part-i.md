@@ -5,7 +5,7 @@ source: "https://anotsodev.me/attacking-and-defending-active-directory-part-i/"
 author:
   - "anotsodev"
 date: 2020-04-19
-excerpt: "Introduction Microsoft Active Directory is one of the most interesting services to attack since we can gather a lot of information just by checking if the server is misconfigured which enables…"
+description: "Introduction Microsoft Active Directory is one of the most interesting services to attack since we can gather a lot of information just by checking if the server is misconfigured which enables…"
 tags:
   - "cybersecurity"
   - "information-security"
